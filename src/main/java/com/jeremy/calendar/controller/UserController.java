@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.ArrayList;
 import java.util.List;
 
-@RequestMapping("/v1/users")
+@RequestMapping("/v1/api/users")
 @RestController
 public class UserController {
 
