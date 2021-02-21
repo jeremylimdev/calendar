@@ -1,4 +1,4 @@
-package com.jeremy.SecurityExample.model;
+package com.jeremy.calendarApp.model;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

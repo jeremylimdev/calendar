@@ -1,8 +1,8 @@
-package com.jeremy.SecurityExample.service;
+package com.jeremy.calendarApp.service;
 
-import com.jeremy.SecurityExample.model.MyUserDetails;
-import com.jeremy.SecurityExample.model.User;
-import com.jeremy.SecurityExample.repository.UserRepository;
+import com.jeremy.calendarApp.model.MyUserDetails;
+import com.jeremy.calendarApp.model.User;
+import com.jeremy.calendarApp.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

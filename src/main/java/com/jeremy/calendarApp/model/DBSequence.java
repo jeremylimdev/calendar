@@ -1,4 +1,4 @@
-package com.jeremy.SecurityExample.model;
+package com.jeremy.calendarApp.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,9 +1,9 @@
-package com.jeremy.SecurityExample.db;
+package com.jeremy.calendarApp.db;
 
 
-import com.jeremy.SecurityExample.model.User;
-import com.jeremy.SecurityExample.repository.UserRepository;
-import com.jeremy.SecurityExample.service.SequenceGeneratorService;
+import com.jeremy.calendarApp.model.User;
+import com.jeremy.calendarApp.repository.UserRepository;
+import com.jeremy.calendarApp.service.SequenceGeneratorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.security.crypto.password.PasswordEncoder;

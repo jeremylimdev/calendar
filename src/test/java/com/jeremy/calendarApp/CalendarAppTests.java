@@ -1,10 +1,10 @@
-package com.jeremy.SecurityExample;
+package com.jeremy.calendarApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SecurityExampleApplicationTests {
+class CalendarAppTests {
 
 	@Test
 	void contextLoads() {

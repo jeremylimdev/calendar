@@ -1,7 +1,6 @@
-package com.jeremy.SecurityExample.controller;
+package com.jeremy.calendarApp.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
@@ -12,10 +11,7 @@ public class HomeController {
         return ("<h1>Welcome</h1>");
     }
 
-    @GetMapping("/user")
-    public String user() {
-        return ("<h1>Welcome User</h1>");
-    }
+
 
     @GetMapping("/admin")
     public String admin() {

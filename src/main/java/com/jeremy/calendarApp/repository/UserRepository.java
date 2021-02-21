@@ -1,6 +1,6 @@
-package com.jeremy.SecurityExample.repository;
+package com.jeremy.calendarApp.repository;
 
-import com.jeremy.SecurityExample.model.User;
+import com.jeremy.calendarApp.model.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;

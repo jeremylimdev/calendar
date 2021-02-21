@@ -1,6 +1,6 @@
-package com.jeremy.SecurityExample.service;
+package com.jeremy.calendarApp.service;
 
-import com.jeremy.SecurityExample.model.DBSequence;
+import com.jeremy.calendarApp.model.DBSequence;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.FindAndModifyOptions;
 import org.springframework.data.mongodb.core.MongoOperations;
